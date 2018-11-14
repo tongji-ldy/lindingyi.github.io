@@ -1,10 +1,10 @@
 # Site settings
-title: LDY Blog
-SEOTitle: 林丁逸的博客 | LDY Blog
+title: 0.1 Blog
+SEOTitle: 0.1的博客 | 0.1 Blog
 header-img: img/post-bg-desk.jpg
 email: ldy_home@163.com
 description: "Every failure is leading towards success."
-keyword: "LDY, LDY Blog, 林丁逸的博客, lindingyi, 林丁逸, iOS, Apple, iPhone"
+keyword: "0.1, 0.1 Blog, 0.1的博客, ldy, 林丁逸, iOS, Apple, iPhone"
 url: "http://tongji-ldy.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/tongji-ldy/tongji-ldy.github.io.git" # you code repository
